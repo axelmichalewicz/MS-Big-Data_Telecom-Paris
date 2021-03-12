@@ -1,0 +1,292 @@
+Car 3
+Beer 2
+Deer 2
+River 2
+input.txt
+Temps de calcul en série pour le comptage de mots : 0.09989738464355469 ms
+Temps de calcul en série pour le triage de mots : 0.0040531158447265625 ms
+
+############################################################################
+
+de 12
+biens 8
+ou 8
+forestier 6
+des 5
+: 4
+Code 4
+Dispositions 4
+Mayotte 4
+aux 4
+communes 4
+forestiers 4
+gestion 4
+les 4
+tous 4
+à 4
+Partie 3
+législative 3
+Article 2
+II 2
+L021 2
+Le 2
+Livre 2
+Table 2
+Titre 2
+accordé 2
+agroforestiers 2
+agroforestiers. 2
+agroforestière 2
+aides 2
+attachées 2
+bonne 2
+bénéfice 2
+code 2
+constitue 2
+dont 2
+démembrer 2
+elle 2
+est 2
+et 2
+fait 2
+forestière 2
+garanties 2
+l'engagement 2
+l'unité 2
+le 2
+leur 2
+ne 2
+par 2
+partie. 2
+forestier_mayotte.txt
+Temps de calcul en série pour le comptage de mots : 0.1709461212158203 ms
+Temps de calcul en série pour le triage de mots : 0.04315376281738281 ms
+
+############################################################################
+
+de 86
+la 40
+police 29
+et 27
+à 25
+des 24
+les 23
+Article 19
+le 19
+↬ 19
+nationale 15
+en 13
+est 13
+DE 12
+TITRE 12
+ou 11
+qui 11
+: 9
+DES 9
+aux 9
+fonctionnaire 9
+par 9
+Le 8
+leur 8
+ses 8
+au 7
+déontologie 7
+ne 7
+Code 6
+DEVOIRS 6
+ET 6
+FONCTIONNAIRES 6
+LA 6
+POLICE 6
+dans 6
+l'autorité 6
+a 5
+cas 5
+du 5
+faire 5
+l'ordre 5
+ordres 5
+pour 5
+sa 5
+se 5
+sont 5
+Il 4
+La 4
+doit 4
+elle 4
+deontologie_police_nationale.txt
+Temps de calcul en série pour le comptage de mots : 0.5202293395996094 ms
+Temps de calcul en série pour le triage de mots : 0.28967857360839844 ms
+
+
+##########################################################################
+
+de 621
+le 373
+du 347
+la 330
+et 266
+à 209
+des 208
+les 200
+est 169
+dans 136
+par 122
+sur 119
+ou 118
+Article 103
+↬ 103
+au 97
+en 95
+bateau 74
+tribunal 72
+pour 69
+l'article 68
+aux 66
+un 61
+lieu 60
+; 56
+qui 54
+Le 52
+: 50
+bureau 50
+que 46
+d'un 44
+navigation 43
+où 43
+son 43
+bateaux 41
+se 41
+d'immatriculation 40
+domicile 38
+a 37
+juge 36
+La 34
+délai 34
+propriétaire 34
+Il 33
+il 33
+Les 32
+créanciers 32
+titre 32
+être 31
+code 30
+domaine_public_fluvial.txt
+Temps de calcul en série pour le comptage de mots : 2.8510093688964844 ms
+Temps de calcul en série pour le triage de mots : 1.2061595916748047 ms
+
+
+##########################################################################
+
+
+de 189699
+la 74433
+des 66705
+à 65462
+et 60940
+les 48772
+du 48400
+le 44264
+ou 39464
+par 30224
+en 28922
+au 25026
+l'article 22772
+dans 22570
+Article 21878
+↬ 21810
+est 21258
+; 19388
+L. 18410
+un 17594
+: 16166
+aux 15874
+pour 14426
+santé 14423
+sont 14324
+Les 13532
+une 12720
+sur 12482
+Le 12380
+R. 11224
+que 11002
+qui 9726
+d'un 9464
+directeur 8248
+être 8046
+La 7854
+peut 7824
+conditions 7656
+ne 7574
+d'une 7276
+son 7206
+cas 6922
+général 6628
+leur 5670
+1° 5648
+pas 5596
+2° 5470
+conseil 5370
+sécurité 5154
+dispositions 5152
+sante_publique.txt
+Temps de calcul en série pour le comptage de mots : 681.3421249389648 ms
+Temps de calcul en série pour le triage de mots : 57.49702453613281 ms
+
+
+##########################################################################
+# commande pour décompresser le fichier : gunzip nomdufichier
+
+the 578580
+to 434203
+and 432210
+- 382045
+of 376385
+a 374874
+in 285432
+de 268255
+► 229494
+& 228286
+(1) 192668
+for 190229
+| 167961
+is 161498
+on 146392
+The 129428
+I 115746
+with 113325
+by 109624
+you 104369
+at 96068
+that 96052
+1 91011
+your 90704
+и 88031
+/ 85351
+la 82421
+or 79613
+this 78849
+are 76561
+en 72350
+be 71075
+from 68807
+2 68100
+в 67831
+(2) 65818
+as 64752
+: 62248
+it 61929
+have 58662
+0 57904
+All 56717
+not 56550
+2017 52381
+que 50929
+3 50664
+was 50520
+an 50426
+y 50194
+для 49295
+CC-MAIN-20170322212949-00140-ip-10-233-31-227.ec2.internal.warc.wet
+Temps de calcul en série pour le comptage de mots : 18172.62625694275 ms
+Temps de calcul en série pour le triage de mots : 13095.066785812378 ms
